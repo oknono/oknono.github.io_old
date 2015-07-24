@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eat Nap Code ... Repeat</title>
+    <description></description>
+    <link>http://eatnapcode.com/</link>
+    <atom:link href="http://eatnapcode.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Jul 2015 15:39:24 -0400</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2015 15:39:24 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Moved the Blog!</title>
+        <description>&lt;p&gt;So I just moved my blog from tumblr to &lt;a href=&quot;&amp;quot;http://jekyllrb.com/&amp;quot;&quot;&gt;Jekyll&lt;/a&gt; hosted on &lt;a href=&quot;&amp;quot;https://pages.github.com/&amp;quot;&quot;&gt;Github Pages&lt;/a&gt;. The transition took about ten minutes and was very easy, but please bear with me while I tweak the CSS…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jul 2015 11:12:46 -0400</pubDate>
+        <link>http://eatnapcode.com/jekyll/blog/2015/07/24/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/jekyll/blog/2015/07/24/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text</title>
+        <description>&lt;a href=&quot;http://kunststube.net/encoding/&quot;&gt;What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text&lt;/a&gt;&lt;br/&gt;
+</description>
+        <pubDate>Tue, 14 Jul 2015 13:16:53 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/14/what-every-programmer-absolutely-positively-needs.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/14/what-every-programmer-absolutely-positively-needs.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Zach Allaun — A bit beyond Git basics: Q&amp;A</title>
+        <description>&lt;a href=&quot;http://blog.zachallaun.com/post/a-bit-beyond-git-basics-qanda&quot;&gt;Zach Allaun — A bit beyond Git basics: Q&amp;A&lt;/a&gt;&lt;br/&gt;&lt;p&gt;FINALLY got around to using .gitignore!&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jul 2015 12:33:28 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/14/zach-allaun-a-bit-beyond-git-basics-q-a.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/14/zach-allaun-a-bit-beyond-git-basics-q-a.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to ask for help on IRC - RJ&#39;s Notes</title>
+        <description>&lt;a href=&quot;https://rurounijones.github.io/blog/2009/03/17/how-to-ask-for-help-on-irc/&quot;&gt;How to ask for help on IRC - RJ&#39;s Notes&lt;/a&gt;&lt;br/&gt;&lt;p&gt;How to ask for help&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jul 2015 10:48:46 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/14/how-to-ask-for-help-on-irc-rjs-notes.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/14/how-to-ask-for-help-on-irc-rjs-notes.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>5 steps to contribute to open source software - Pam The Webivore</title>
+        <description>&lt;a href=&quot;http://thewebivore.com/code-contribute-open-source/&quot;&gt;5 steps to contribute to open source software - Pam The Webivore&lt;/a&gt;&lt;br/&gt;&lt;p&gt;On the to do list&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2015 11:28:19 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/12/5-steps-to-contribute-to-open-source-software.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/12/5-steps-to-contribute-to-open-source-software.html</guid>
+        
+        <category>github</category>
+        
+        <category>open source</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Early vs. Beginning Coders</title>
+        <description>&lt;a href=&quot;http://zedshaw.com/2015/06/16/early-vs-beginning-coders/&quot;&gt;Early vs. Beginning Coders&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Interesting article about the importance of distinguishing between beginning and early coders by the author of the “Learn XX the hard way” series&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jul 2015 12:42:19 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/09/early-vs-beginning-coders.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/09/early-vs-beginning-coders.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>this could take a while</title>
+        <description>&lt;img src=&quot;http://41.media.tumblr.com/25595baa2166ddbb1e4d92707fff381d/tumblr_nr5116XFgJ1tiya0uo1_1280.jpg&quot;/&gt;&lt;br/&gt;&lt;p&gt;This could take a while&amp;hellip;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jul 2015 17:58:18 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/07/this-could-take-a-while.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/07/this-could-take-a-while.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Virtual Environments — The Hitchhiker&#39;s Guide to Python</title>
+        <description>&lt;a href=&quot;http://docs.python-guide.org/en/latest/dev/virtualenvs/&quot;&gt;Virtual Environments — The Hitchhiker&#39;s Guide to Python&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Using Python virtual environments&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jul 2015 16:01:33 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/06/virtual-environments-the-hitchhikers-guide-to.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/06/virtual-environments-the-hitchhikers-guide-to.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com</title>
+        <description>&lt;a href=&quot;http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&quot;&gt;The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com&lt;/a&gt;&lt;br/&gt;&lt;p&gt;18-part Flask (Python microframework) tutorial&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jul 2015 15:43:06 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/06/the-flask-mega-tutorial-part-i-hello-world.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/06/the-flask-mega-tutorial-part-i-hello-world.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Full Stack Python</title>
+        <description>&lt;a href=&quot;http://www.fullstackpython.com/&quot;&gt;Full Stack Python&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Learning to create, deploy
+and run a production Python web application.&lt;br/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jul 2015 14:22:09 -0400</pubDate>
+        <link>http://eatnapcode.com/2015/07/06/full-stack-python.html</link>
+        <guid isPermaLink="true">http://eatnapcode.com/2015/07/06/full-stack-python.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
