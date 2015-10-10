@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Performance in Python"
+date:   2015-08-27 18:30:00
+categories: performance python recurse
+---
+
+TIL that python runs faster in a function. Why? [This post on stack overflow](http://stackoverflow.com/questions/11241523/why-does-python-code-run-faster-in-a-function) explains it really well. Guess it's about to start digging deeper and look at CPython and bytecode. Down the rabbithole!
