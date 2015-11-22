@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Performance in Python"
-date:   2015-08-27 18:30:00
+date:   2015-10-10 18:30:00
 categories: performance python recurse
 ---
 
